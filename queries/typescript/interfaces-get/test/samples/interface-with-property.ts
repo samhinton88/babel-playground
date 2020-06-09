@@ -1,0 +1,3 @@
+interface IFoo {
+  name: string;
+}

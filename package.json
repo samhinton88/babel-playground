@@ -3,10 +3,16 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "dependencies": {
     "@babel/generator": "^7.10.2",
     "@babel/parser": "^7.10.2",
     "@babel/traverse": "^7.10.1",
     "@babel/types": "^7.10.2"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
   }
 }
